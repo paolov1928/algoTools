@@ -1,3 +1,5 @@
+import { INTRO_PHRASE } from "./copy"
+
 export const runTheCoolestCLI = (): void=>{
-    console.log('Hi, what is your name?')
+    console.log(INTRO_PHRASE)
 }

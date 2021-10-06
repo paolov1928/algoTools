@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest cli.test.ts"
+    "test": "jest cli.test.ts --watchAll"
   },
   "keywords": [],
   "author": "",

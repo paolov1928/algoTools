@@ -1,0 +1,1 @@
+export const INTRO_PHRASE = 'Hi, what is your name?'
